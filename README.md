@@ -4,7 +4,7 @@ This is Social Media &amp; Text Analysis Repository For Topic Modelling Assignme
 # SM-TA_1
 Social Media &amp; Text Analysis
 <br>
-Auther - Bobby Narang
+Auther - Bobby Mr. Narang
 <br>
 Mr.Narang
 
